@@ -1,3 +1,5 @@
+# Basic Background Info - manually
+- SJF: 각 작업의 프로세서 실행 시간을 이용하여 프로세서가 사용 가능할 때, 실시간이 가장 짧은 작업에 할당
 
 # Overview
 
